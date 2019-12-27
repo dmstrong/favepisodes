@@ -1,22 +1,22 @@
 {
   "files": {
-    "static/js/0.89c7207f.chunk.js": "/fav-episodes/static/js/0.89c7207f.chunk.js",
-    "static/js/0.89c7207f.chunk.js.map": "/fav-episodes/static/js/0.89c7207f.chunk.js.map",
-    "main.css": "/fav-episodes/static/css/main.9a1c4ddf.chunk.css",
-    "main.js": "/fav-episodes/static/js/main.8108a830.chunk.js",
-    "main.js.map": "/fav-episodes/static/js/main.8108a830.chunk.js.map",
-    "runtime-main.js": "/fav-episodes/static/js/runtime-main.58c7976f.js",
-    "runtime-main.js.map": "/fav-episodes/static/js/runtime-main.58c7976f.js.map",
-    "static/js/3.249024e7.chunk.js": "/fav-episodes/static/js/3.249024e7.chunk.js",
-    "static/js/3.249024e7.chunk.js.map": "/fav-episodes/static/js/3.249024e7.chunk.js.map",
-    "index.html": "/fav-episodes/index.html",
-    "precache-manifest.d4b2fd1b62432bf88554c3dd85430f07.js": "/fav-episodes/precache-manifest.d4b2fd1b62432bf88554c3dd85430f07.js",
-    "service-worker.js": "/fav-episodes/service-worker.js",
-    "static/css/main.9a1c4ddf.chunk.css.map": "/fav-episodes/static/css/main.9a1c4ddf.chunk.css.map",
-    "static/js/3.249024e7.chunk.js.LICENSE": "/fav-episodes/static/js/3.249024e7.chunk.js.LICENSE"
+    "static/js/0.89c7207f.chunk.js": "/favepisodes/static/js/0.89c7207f.chunk.js",
+    "static/js/0.89c7207f.chunk.js.map": "/favepisodes/static/js/0.89c7207f.chunk.js.map",
+    "main.css": "/favepisodes/static/css/main.9a1c4ddf.chunk.css",
+    "main.js": "/favepisodes/static/js/main.8108a830.chunk.js",
+    "main.js.map": "/favepisodes/static/js/main.8108a830.chunk.js.map",
+    "runtime-main.js": "/favepisodes/static/js/runtime-main.a252a162.js",
+    "runtime-main.js.map": "/favepisodes/static/js/runtime-main.a252a162.js.map",
+    "static/js/3.249024e7.chunk.js": "/favepisodes/static/js/3.249024e7.chunk.js",
+    "static/js/3.249024e7.chunk.js.map": "/favepisodes/static/js/3.249024e7.chunk.js.map",
+    "index.html": "/favepisodes/index.html",
+    "precache-manifest.cd0f0698f4ac7a336f05e315594b65ce.js": "/favepisodes/precache-manifest.cd0f0698f4ac7a336f05e315594b65ce.js",
+    "service-worker.js": "/favepisodes/service-worker.js",
+    "static/css/main.9a1c4ddf.chunk.css.map": "/favepisodes/static/css/main.9a1c4ddf.chunk.css.map",
+    "static/js/3.249024e7.chunk.js.LICENSE": "/favepisodes/static/js/3.249024e7.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.58c7976f.js",
+    "static/js/runtime-main.a252a162.js",
     "static/js/3.249024e7.chunk.js",
     "static/css/main.9a1c4ddf.chunk.css",
     "static/js/main.8108a830.chunk.js"
